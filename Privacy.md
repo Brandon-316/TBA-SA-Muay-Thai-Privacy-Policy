@@ -16,6 +16,8 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 
 If you are an official or employee for the Thai Boxing Association Sanctioning Authority , I may require you to provide us with certain personally identifiable information, including but not limited to email, first name, last name. The information that I request will be retained on Firebase Database and will only be used for authentication purposes in order to manage the app itself.
 
+If you are not an employee of the Thai Boxing Association-Sanctioning Authority that requires the ability to manage the app then I will never ask you for your personal information.
+
 The app does use third party services that may collect information used to identify you.
 
 Link to privacy policy of third party service providers used by the app
